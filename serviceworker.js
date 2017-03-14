@@ -2,7 +2,7 @@ var CACHE_NAME = 'gih-cache';
 var CACHED_URLS = [
   'offline.html',
   'mystyles.css',
-  'dino.png'
+  'newquay.jpg'
 ];
 
 self.addEventListener('install', function(event) {
